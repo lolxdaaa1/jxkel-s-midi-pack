@@ -9,3 +9,5 @@ If someone releases my pack without my permission, contact me.
 Anyways,have fun with the MIDI's I have given to you!
 I will make a private version consisting of way better MIDI's costing 1-2$ instead of the musicnote midi"s costing 4.99$ and above.
 The download link will always come from my discord(jxkel#2653) as listed above and my github link(here)
+nanoMIDI discord:https://discord.gg/dn2WYyhs
+nanoMIDI website: nanomidi.net
